@@ -1,3 +1,7 @@
+"""
+AHMAD MUFIE NURRIZZIQIE 152022071
+"""
+
 # Data panen
 data_panen = {
     'lokasi1': {
@@ -42,7 +46,7 @@ data_panen = {
     }
 }
 
-""" SOAL """
+""" SOAL TUGAS GITHUB"""
 
 # 1. Tampilkan seluruh data
 print(data_panen)
