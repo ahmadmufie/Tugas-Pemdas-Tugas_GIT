@@ -1,5 +1,7 @@
 """
 AHMAD MUFIE NURRIZZIQIE 152022071
+Mk : Pemdas 
+Kelas : FF
 """
 
 # Data panen
