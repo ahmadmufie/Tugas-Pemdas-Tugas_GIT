@@ -42,6 +42,8 @@ data_panen = {
     }
 }
 
+""" SOAL """
+
 # 1. Tampilkan seluruh data
 print(data_panen)
 
